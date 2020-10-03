@@ -1,5 +1,5 @@
 ---
-title: Sample Code - Quick Sort
+title: هيلو
 layout: post
 category: Sample
 date: 2019-2-4
