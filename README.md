@@ -39,7 +39,7 @@ pz：
 * pages：123
 * assets/img：1
 
-功能样式：
+gg：
 * _includes/：you
 * _layouts/：us（by you）
 * assets/css/：nice
