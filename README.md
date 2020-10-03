@@ -1,50 +1,50 @@
 # PRoJEct-NeGYa
 
-黑客帝国掉字母儿风格的个人主页模板。
+هذا الموقع لنا الان 
 
-版本： v2.0
+hack： v2.0
 
-## 特性
+## how to hack
 
-1. 狂拽酷炫
-2. 代码高亮
-3. MathJax公式
-4. 文章索引
-5. 高度可定制化
-6. 加密内容
+1. open kali linux 
+2. terminal  
+3. type how to hack 
+4. the code is running 
+5. wait for it
+6. happy hacking :)
 
-## 更新日志
+## publishment 
 
-2020.7.24: v2.0 修改工程结构，优化scss文件结构
+2020.7.24: v2.0 last release 
 
-2019.7.17：更新说明文件
+2019.7.17：draft 2
 
-2019.6.15：v1.0 正式版
+2019.6.15：v1.0 draft 1
 
-## 使用方法
+## test
 
-* 下载或者fork到自己的github仓库里
-* 修改_config.yml文件
-* （自定义域名）修改CNAME文件
-* 修改pages/index.md文件，自定义主页
-* 删除_posts/文件夹里的文件，添加自己的文章
-* 同步到github远程仓库
-* 将加密内容作为加密文本的id
-  * 可使用在线工具加密文本：[sjcl官方](http://bitwiseshiftleft.github.io/sjcl/demo/)  [bcqlr.com](http://bcqlr.com/sjcl/)
+* test
+* test _config.yml  test
+* （test）test  CNAME test
+* test  pages/index.md  test 
+* test _posts/  test 
+* test github test 
+* test  id
+  * test ：[sjcl官方](http://bitwiseshiftleft.github.io/sjcl/demo/)  [bcqlr.com](http://bcqlr.com/sjcl/)
 
-## 工程结构
+## ez
 
-网站内容：
-* _posts：文章
-* pages：页面
-* assets/img：图
+pz：
+* _posts：1
+* pages：123
+* assets/img：1
 
 功能样式：
-* _includes/：子页面模块
-* _layouts/：页面模板（单纯地组合子页面模块）
-* assets/css/：样式表文件
-* assets/fonts/：字体文件
-* assets/js/：脚本文件
-* _config.yml：配置文件
-* _sass/：分类的scss样式表文件
+* _includes/：you
+* _layouts/：us（by you）
+* assets/css/：nice
+* assets/fonts/：hello
+* assets/js/：s
+* _config.yml：x
+* _sass/：s
 
